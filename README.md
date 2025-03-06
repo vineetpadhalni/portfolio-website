@@ -17,8 +17,7 @@ Here’s a glimpse of how my portfolio website looks:
 This project is built using:  
 - **HTML, CSS, JavaScript** for structure, styling, and interactivity  
 - **React.js** for dynamic UI components  
-- **Tailwind CSS** for a modern and responsive design  
-- **Framer Motion** for smooth animations  
+  
 
 ---
 
