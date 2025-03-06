@@ -1,12 +1,47 @@
-# React + Vite
+# 🌐 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Portfolio Website**! This website showcases my skills, projects, and experiences as a **Frontend Developer**. It serves as a personal space where I highlight my work and connect with potential employers or collaborators.
 
-Currently, two official plugins are available:
+ 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview  
+Here’s a glimpse of how my portfolio website looks:  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio Screenshot](src/assets/Screenshot%202025-03-06%20112203.png)
+
+---
+
+## 🛠 Tech Stack  
+This project is built using:  
+- **HTML, CSS, JavaScript** for structure, styling, and interactivity  
+- **React.js** for dynamic UI components  
+- **Tailwind CSS** for a modern and responsive design  
+- **Framer Motion** for smooth animations  
+
+---
+
+## 📁 Features  
+✅ **Home** – Introduction and brief overview of my work  
+✅ **About** – My skills, education, and professional background  
+✅ **Projects** – A showcase of my notable projects  
+✅ **Resume** – A downloadable version of my resume  
+
+---
+
+## 📌 Installation  
+If you want to run this project locally, follow these steps:  
+
+```sh
+# Clone the repository
+git clone https://github.com/vineetpadhalni/portfolio-website.git
+
+# Navigate to the project folder
+cd portfolio-website
+
+# Install dependencies
+npm install
+
+# Start the  server
+npm run dev
